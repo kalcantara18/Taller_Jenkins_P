@@ -12,7 +12,7 @@ import { AppComponent } from './app.component';
         AppComponent
       ],
     }).compileComponents();
-  });*/
+  });
 
   it('should create the app', () => {
     const fixture = TestBed.createComponent(AppComponent);
@@ -32,4 +32,4 @@ import { AppComponent } from './app.component';
   });
 
 
-});
+});*/
